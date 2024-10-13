@@ -4,6 +4,6 @@ body {
 }
 
 header{
-     border: solid 2px black;
+     border-bottom: solid 2px black;
      text-align: center;
 }
