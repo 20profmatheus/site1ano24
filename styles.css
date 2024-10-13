@@ -6,6 +6,7 @@ body {
 header{
      border-bottom: solid 2px black;
      text-align: center;
+     text-size-adjust: 50;
      padding: 20px;
      background-color: burlywood;
 }
