@@ -56,10 +56,10 @@ img {
 }
 
 .videos img {
-    opacity: 0.5;
+    opacity: 0.8;
     }
 
 .videos img:hover {
     opacity: 1.0;
-    border: 1px solid green;
+    border: 3px solid green;
 }
